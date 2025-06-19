@@ -1,9 +1,3 @@
-Claro\! Um bom `README.md` é essencial para qualquer projeto.
-
-Aqui está uma sugestão de texto já formatada em Markdown. Você pode criar um arquivo chamado `README.md` na pasta principal do seu projeto e colar o conteúdo abaixo.
-
------
-
 # Projeto Clone Starbucks - B7Web
 
 Este é um projeto de estudo que recria a interface de uma página da Starbucks. Desenvolvido durante o curso de Desenvolvimento Web da [B7Web](https://b7web.com.br/), o foco principal foi aplicar e aprofundar os conhecimentos em HTML semântico e CSS moderno, trabalhando conceitos essenciais como Flexbox, CSS Grid e posicionamento de elementos.
